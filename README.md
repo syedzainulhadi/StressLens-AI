@@ -1,6 +1,10 @@
 # 🧠 StressLens AI
 ### Early stress detection and AI-powered emotional support
+theme:
+AI for Accessibility, healthcare and wellbeing
 
+problem statement:
+AI chatbot or voice analysis tool for early stress/mental health risk detection with coping resources.
 ---
 
 ## Project Structure
